@@ -1,0 +1,8 @@
+{
+  "name": "Remix Your Story Tattoo",
+  "description": "Your Story. Inked Forever. A premium, editorial, monochrome tattoo studio website celebrating fine-line craftsmanship, bespoke custom artistry, and meaningful permanent expression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
