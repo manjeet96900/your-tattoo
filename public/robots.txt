@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://yourstorytattoo.com/sitemap.xml
+/ ABCD
